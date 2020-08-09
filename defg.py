@@ -1,3 +1,3 @@
 print("defg")
-print("defg1)
-print("defg2)
+print("defg1")
+print("defg2")
